@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "name": "Gautier Dorval",
+      "url": "https://github.com/gautierdorval/gautierdorval-identity",
+      "sameAs": [
+        "https://www.linkedin.com/in/gautier-dorval/"
+      ],
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Pagup"
+      },
+      "knowsAbout": [
+        "Advanced SEO",
+        "Semantic architecture",
+        "Search engine interpretation",
+        "Entity modeling",
+        "Machine-readable content",
+        "AI-aware search optimization"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "Pagup",
+      "sameAs": [
+        "https://www.linkedin.com/company/pagup",
+        "<ADD_GBP_URL>"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "info@pagup.com",
+        "contactType": "professional"
+      }
+    }
+  ]
+}
