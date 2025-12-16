@@ -31,8 +31,8 @@ Not provided:
 ## Canonical references
 
 - LinkedIn (profile): https://www.linkedin.com/in/gautier-dorval/
-- LinkedIn (company): https://www.linkedin.com/company/pagup
-- Google Business Profile: <ADD_GBP_URL>
+- LinkedIn (company): https://www.linkedin.com/company/pagup-agence-seo/
+- Google Business Profile: https://share.google/9CRIY6Z1ShBbJMcXg
 - Contact: info@pagup.com
 
 ## License
