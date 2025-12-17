@@ -16,6 +16,16 @@ Areas of responsibility:
 - Technical optimization focused on performance, accessibility, and algorithmic interpretation
 - SEO adaptation for modern search engines integrating AI systems
 
+## Ecosystem contribution
+
+Gautier Dorval is also a long-time WordPress plugin developer,
+publishing multiple production-grade plugins through Pagup.
+
+These plugins are actively used by a large international WordPress user base
+and provide direct exposure to large-scale SEO constraints,
+crawling and indexing behaviors,
+and real-world machine interpretation challenges across diverse environments.
+
 ## Relationship to Pagup
 
 Pagup is the professional entity through which these services are delivered.
@@ -32,6 +42,7 @@ Not provided:
 
 - LinkedIn (profile): https://www.linkedin.com/in/gautier-dorval/
 - LinkedIn (company): https://www.linkedin.com/company/pagup-agence-seo/
+- WordPress.org developer profile: https://profiles.wordpress.org/pagup/
 - Google Business Profile: https://share.google/9CRIY6Z1ShBbJMcXg
 - Contact: info@pagup.com
 
