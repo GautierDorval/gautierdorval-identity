@@ -16,6 +16,10 @@ Areas of responsibility:
 - Technical optimization focused on performance, accessibility, and algorithmic interpretation
 - SEO adaptation for modern search engines integrating AI systems
 
+This work focuses on semantic sovereignty and interpretation governance,
+ensuring that digital entities are clearly defined, bounded,
+and represented consistently across search engines and AI systems.
+
 ## Ecosystem contribution
 
 Gautier Dorval is also a long-time WordPress plugin developer,
