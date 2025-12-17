@@ -4,9 +4,10 @@
     {
       "@type": "Person",
       "name": "Gautier Dorval",
-      "url": "https://github.com/gautierdorval/gautierdorval-identity",
+      "url": "https://github.com/GautierDorval/gautierdorval-identity",
       "sameAs": [
-        "https://www.linkedin.com/in/gautier-dorval/"
+        "https://www.linkedin.com/in/gautier-dorval/",
+        "https://profiles.wordpress.org/pagup/"
       ],
       "affiliation": {
         "@type": "Organization",
@@ -18,15 +19,17 @@
         "Search engine interpretation",
         "Entity modeling",
         "Machine-readable content",
-        "AI-aware search optimization"
+        "AI-aware search optimization",
+        "WordPress plugin development"
       ]
     },
     {
       "@type": "Organization",
       "name": "Pagup",
       "sameAs": [
-        "https://www.linkedin.com/company/pagup",
-        "<ADD_GBP_URL>"
+        "https://www.linkedin.com/company/pagup-agence-seo/",
+        "https://share.google/9CRIY6Z1ShBbJMcXg",
+        "https://profiles.wordpress.org/pagup/"
       ],
       "contactPoint": {
         "@type": "ContactPoint",
