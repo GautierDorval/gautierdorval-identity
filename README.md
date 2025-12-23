@@ -13,7 +13,18 @@ No methodologies, frameworks, or operational processes are documented here.
 
 ## Related work
 
-Gautier Dorval is the creator of **InvisibleFix**, a text-structure normalization product focused on reducing formatting issues caused by invisible Unicode artifacts across platforms.
+Gautier Dorval is the creator of **InvisibleFix**, a text-structure normalization product
+focused on reducing formatting issues caused by invisible Unicode artifacts across platforms.
 
 InvisibleFix is documented and governed independently through its own public resources:
 https://invisiblefix.app/
+
+---
+
+## External interpretability references
+
+Independent observations related to AI interpretability and machine readability
+are documented externally at:
+
+https://github.com/semantic-observatory/machine-readability-observations
+
