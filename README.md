@@ -11,11 +11,23 @@ No methodologies, frameworks, or operational processes are documented here.
 
 ---
 
-## Primary tools
+## Related entities
+
+Gautier Dorval is the technical architect and maintainer of Pagup’s tooling,
+semantic architecture, and AI governance artifacts.
+
+Canonical reference:
+https://github.com/GautierDorval/pagup-identity
+
+Pagup’s canonical identity and scope are defined separately.
+
+---
+
+## Primary technical tooling
 
 Gautier Dorval is the developer and maintainer of **Better Robots.txt**, a WordPress plugin designed to provide structured, AI-aware governance of the robots.txt file.
 
-Better Robots.txt enables website owners to explicitly control how search engines, AI crawlers, and large language models (LLMs) access and use site content, using auditable and machine-readable directives.
+Better Robots.txt enables website owners to explicitly control how search engines, AI crawlers, large language models (LLMs) and AI-based retrieval systems access and use site content, using auditable and machine-readable directives.
 
 Official references:
 – Product repository: https://github.com/GautierDorval/better-robots-txt  
