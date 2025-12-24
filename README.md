@@ -22,7 +22,9 @@ Official references:
 – WordPress.org plugin page: https://wordpress.org/plugins/better-robots-txt/  
 – Official website: https://www.better-robots.com/
 
-– **BIALTY (Bulk Image Alt Text with Yoast)**: https://wordpress.org/plugins/bulk-image-alt-text-with-yoast/
+**BIALTY (Bulk Image Alt Text with Yoast)**: https://wordpress.org/plugins/bulk-image-alt-text-with-yoast/
+**Auto Focus Keywords**: https://wordpress.org/plugins/auto-focus-keyword-for-seo/
+
 ---
 
 ## Related work
