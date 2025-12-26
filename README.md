@@ -11,6 +11,15 @@ No methodologies, frameworks, or operational processes are documented here.
 
 ---
 
+## Canonical framework
+This identity repository follows the reference model:
+**SSA-E + A2 + Dual Web**.
+
+- Doctrine: `ssa-e-dual-web-doctrine.md`
+- Change log: `CHANGELOG.md`
+
+---
+
 ## Related entities
 
 Gautier Dorval is the technical architect and maintainer of Pagup’s tooling,
