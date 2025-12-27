@@ -42,3 +42,10 @@ usage policies and explicit relations.
 
 ## Version
 SSA-E + A2 + Dual Web — canonical production reference
+
+---
+
+Author: Gautier Dorval  
+Date of initial definition: 2025-12-26  
+Canonical source: https://github.com/GautierDorval/gautierdorval-identity  
+License: CC BY-NC-SA 4.0
