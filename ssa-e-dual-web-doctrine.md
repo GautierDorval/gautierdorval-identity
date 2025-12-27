@@ -1,5 +1,10 @@
 # SSA-E + A2 + Dual Web — Canonical Doctrine
 
+## Neutral doctrinal formalization
+
+The neutral and versioned formalization of this doctrine is maintained here:
+https://github.com/GautierDorval/ssa-e-a2-doctrine
+
 ## Status
 This document defines the official reference framework used to design web environments
 that are correctly interpretable by search engines and large language models (LLMs),
