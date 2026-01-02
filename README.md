@@ -8,6 +8,7 @@ I design and deploy web governance systems that provide interpretation rules to 
 This approach is applied on real-world sites to reduce hallucinations on volatile data such as pricing, availability, and geographic scope.
 
 No methodologies, frameworks, or operational processes are documented here.
+This repository defines identity and scope only.
 
 ---
 
@@ -64,6 +65,7 @@ https://invisiblefix.app/
 
 - Website (public): https://gautierdorval.com/
 - Purpose: live public projection of the canonical identity defined in this repository.
+- Status: non-canonical source; implementation and expression layer only.
 
 ---
 
