@@ -67,6 +67,12 @@ https://invisiblefix.app/
 - Purpose: live public projection of the canonical identity defined in this repository.
 - Status: non-canonical source; implementation and expression layer only.
 
+Public machine-readable artifacts exposed by this identity projection:
+- https://gautierdorval.com/author.md
+- https://gautierdorval.com/humans.txt
+- https://gautierdorval.com/ai-usage-policy/
+- https://gautierdorval.com/.well-known/ai-governance.json
+
 ---
 
 ## External interpretability references
