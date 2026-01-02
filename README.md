@@ -60,6 +60,13 @@ https://invisiblefix.app/
 
 ---
 
+## Canonical public reference
+
+- Website (public): https://gautierdorval.com/
+- Purpose: live public projection of the canonical identity defined in this repository.
+
+---
+
 ## External interpretability references
 
 Independent observations related to AI interpretability and machine readability
