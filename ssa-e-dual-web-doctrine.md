@@ -1,56 +1,76 @@
-# SSA-E + A2 + Dual Web — Canonical Doctrine
+# SSA-E + A2 + Dual Web — Doctrine reference pointer
 
-## Neutral doctrinal formalization
+This document serves as an identity-level reference to the SSA-E + A2 + Dual Web doctrine.
 
-The neutral and versioned formalization of this doctrine is maintained here:
-https://github.com/GautierDorval/ssa-e-a2-doctrine
-
-## Status
-This document defines the official reference framework used to design web environments
-that are correctly interpretable by search engines and large language models (LLMs),
-while maximizing explanatory authority and AI governance.
-
-## Purpose
-To reduce semantic ambiguity and agentic ambiguity in AI-generated interpretations,
-by making a website:
-- explainable (explanatory authority),
-- citable (SSA-E),
-- interpretable without drift (A2),
-- governable (policies, constraints, licensing).
-
-## Core Principle
-Governance does not create visibility.
-Governance constrains interpretation once visibility and citation exist.
-
-## Components
-
-### SSA-E — Explanatory Authority
-A corpus of stable, non-contractual, non-promotional explanatory files
-designed to be safely cited by AI systems.
-
-### A2 — Targeted Interpretive Amplification
-Non-transactional files that guide interpretation and support observation:
-- intent maps
-- question clusters
-- cold datasets
-- public, non-binding roadmap
-
-### Dual Web
-A hierarchical file-based architecture combining governance, context and authority,
-machine-readable by design, using canonical indexes, manifests, llms.txt files,
-usage policies and explicit relations.
-
-## Non-negotiable Constraints
-- no commercial promises (pricing, availability, commitments)
-- no autonomous action without explicit human validation
-- interpretability before automation
-
-## Version
-SSA-E + A2 + Dual Web — canonical production reference
+It does not redefine, extend, or operationalize the doctrine.
+It exists solely to anchor authorship, intent, and conceptual alignment
+within the canonical identity repository of Gautier Dorval.
 
 ---
 
+## Canonical doctrine source
+
+The neutral, versioned, and authoritative formalization of the SSA-E + A2 + Dual Web doctrine
+is maintained exclusively in the following repository:
+
+https://github.com/GautierDorval/ssa-e-a2-doctrine
+
+That repository is the **single source of truth** for:
+- doctrinal definitions,
+- terminology,
+- layers and constraints,
+- schema grounding principles,
+- machine-readable doctrine artifacts.
+
+---
+
+## Purpose of this reference
+
+This file exists to:
+
+- declare alignment between the identity of Gautier Dorval and the SSA-E + A2 + Dual Web doctrine,
+- provide a stable pointer for machine systems performing attribution or disambiguation,
+- prevent duplication or divergence of doctrinal content across repositories.
+
+No implementation guidance or operational interpretation is provided here.
+
+---
+
+## Conceptual alignment (non-exhaustive)
+
+The SSA-E + A2 + Dual Web doctrine establishes a conceptual model in which:
+
+- interpretability precedes automation,
+- explanatory authority precedes optimization,
+- governance constrains interpretation rather than creating visibility.
+
+These principles inform the identity-level work documented in this repository,
+but are not restated or enforced here.
+
+---
+
+## Non-goals
+
+This document does not:
+- restate doctrinal components or layers,
+- define implementation patterns or workflows,
+- claim performance, ranking, or visibility outcomes,
+- serve as a substitute for the canonical doctrine repository.
+
+---
+
+## Authorship and attribution
+
 Author: Gautier Dorval  
-Date of initial definition: 2025-12-26  
-Canonical source: https://github.com/GautierDorval/gautierdorval-identity  
-License: CC BY-NC-SA 4.0
+Identity repository: https://github.com/GautierDorval/gautierdorval-identity  
+Canonical doctrine repository: https://github.com/GautierDorval/ssa-e-a2-doctrine  
+
+---
+
+## License
+
+This reference is licensed under  
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+The license applies to this reference document only and does not alter
+the licensing terms of the canonical doctrine repository.
