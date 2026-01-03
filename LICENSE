@@ -1,4 +1,26 @@
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-(CC BY-NC-SA 4.0)
+License interpretation
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+This repository is licensed under Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+
+This license applies to:
+- doctrinal texts,
+- definitions and terminology,
+- schema templates and rules,
+- documentation and conceptual artifacts.
+
+Permitted uses:
+- citation and reference with attribution,
+- non-commercial research, education, and implementation,
+- derivative works for non-commercial purposes, provided the same license is preserved.
+
+Prohibited uses without explicit authorization:
+- commercial packaging of the doctrine as a product or service,
+- resale or licensing of derivative frameworks,
+- use of the doctrine as a marketing or certification claim.
+
+Clarification on consulting and implementation:
+Applying the principles of this doctrine within consulting, auditing, or technical work does not grant ownership of the doctrine itself and does not remove attribution obligations.
+
+This license does not restrict independent ideas, methods, or implementations developed without reproducing or deriving from this repository.
+
+In case of ambiguity, attribution and non-commercial constraints prevail.
