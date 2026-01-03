@@ -3,15 +3,16 @@
   "@graph": [
     {
       "@type": "Person",
+      "@id": "https://gautierdorval.com/#gautier-dorval",
       "name": "Gautier Dorval",
-      "url": "https://github.com/GautierDorval/gautierdorval-identity",
+      "url": "https://gautierdorval.com/",
       "sameAs": [
         "https://www.linkedin.com/in/gautier-dorval/",
-        "https://profiles.wordpress.org/pagup/"
+        "https://github.com/GautierDorval/gautierdorval-identity",
+        "https://github.com/GautierDorval"
       ],
       "affiliation": {
-        "@type": "Organization",
-        "name": "Pagup"
+        "@id": "https://github.com/GautierDorval/pagup-identity#pagup"
       },
       "knowsAbout": [
         "Advanced SEO",
@@ -19,23 +20,35 @@
         "Search engine interpretation",
         "Entity modeling",
         "Machine-readable content",
-        "AI-aware search optimization",
+        "AI governance",
         "WordPress plugin development"
+      ],
+      "subjectOf": [
+        {
+          "@type": "CreativeWork",
+          "@id": "https://github.com/GautierDorval/gautierdorval-identity#repository",
+          "name": "Gautier Dorval identity repository",
+          "url": "https://github.com/GautierDorval/gautierdorval-identity"
+        }
       ]
     },
     {
       "@type": "Organization",
+      "@id": "https://github.com/GautierDorval/pagup-identity#pagup",
       "name": "Pagup",
       "sameAs": [
         "https://www.linkedin.com/company/pagup-agence-seo/",
         "https://share.google/9CRIY6Z1ShBbJMcXg",
-        "https://profiles.wordpress.org/pagup/"
+        "https://profiles.wordpress.org/pagup/",
+        "https://github.com/GautierDorval/pagup-identity"
       ],
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "email": "info@pagup.com",
-        "contactType": "professional"
-      }
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "email": "info@pagup.com",
+          "contactType": "professional"
+        }
+      ]
     }
   ]
 }
