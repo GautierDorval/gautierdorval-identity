@@ -137,3 +137,6 @@ This repository is licensed under
 
 License interpretation is governed by explicit scope and non-commercial constraints.
 
+This repository is mirrored on Codeberg for redundancy and continuity.
+The GitHub repository remains the canonical reference.
+
