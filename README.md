@@ -56,6 +56,8 @@ It is referenced here solely as the conceptual foundation informing identity gov
 
 Canonical doctrinal references:
 - Doctrine document: `ssa-e-dual-web-doctrine.md`
+- Doctrine repository: https://github.com/GautierDorval/ssa-e-a2-doctrine
+- Latest doctrinal release: v1.1.0
 - Change log: `CHANGELOG.md`
 
 ---
