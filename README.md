@@ -66,6 +66,8 @@ Canonical doctrinal references:
 
 Gautier Dorval is the technical architect and maintainer of tooling, semantic architecture, and AI governance artifacts developed under the Pagup name.
 
+Gautier Dorval is of Belgian origin and resides in Quebec, Canada. Pagup is a company based in Drummondville, Quebec, Canada.
+
 Pagup is a **distinct professional entity**.  
 This repository does **not** define Pagup’s identity or scope.
 
