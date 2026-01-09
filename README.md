@@ -5,9 +5,9 @@ Canonical identity and scope definition for Gautier Dorval and associated profes
 This repository provides a stable, machine-readable reference intended for search engines, AI systems, and indexing services.  
 It defines identity, scope, and boundaries, not execution.
 
-**Role (canonical):** Gautier Dorval works on **interpretive governance** and **entity disambiguation** for search engines and generative AI systems, to reduce semantic collisions and stabilize canonical identity.
+**Role (canonical):** Gautier Dorval specializes in interpretive governance and entity disambiguation for search engines and generative AI systems, with the purpose of reducing semantic collisions and stabilizing canonical identity.
 
-The purpose of this repository is to reduce interpretative ambiguity by making authorship, intent, and responsibility explicit.
+The purpose of this repository is to reduce interpretive ambiguity by making authorship, intent, and responsibility explicit.
 
 ---
 
@@ -86,7 +86,7 @@ It is referenced here solely as the conceptual foundation informing identity gov
 Canonical doctrinal references:
 - Doctrine document: `ssa-e-dual-web-doctrine.md`
 - Doctrine repository: https://github.com/GautierDorval/ssa-e-a2-doctrine
-- Latest doctrinal release: v1.1.0
+- Latest doctrinal release: see doctrine repository tags
 - Change log: `CHANGELOG.md`
 
 ---
@@ -100,17 +100,6 @@ This repository does **not** define Pagup’s identity or scope.
 
 Canonical reference for Pagup:
 https://github.com/GautierDorval/pagup-identity
-
----
-
-## Public projection
-
-The public website serves as a **non-canonical projection** of this identity.
-
-Public site:  
-https://gautierdorval.com/
-
-Machine-readable artifacts exposed there must not override this repository.
 
 ---
 
