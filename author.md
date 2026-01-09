@@ -3,6 +3,7 @@
 Name: Gautier Dorval  
 Entity type: Individual (human)  
 Primary role: Semantic architecture and machine interpretability  
+Specialization: Interpretive governance and entity disambiguation for search engines and generative AI systems
 Associated professional entity: Pagup (independent organization)
 
 Gautier Dorval is of Belgian origin and resides in Quebec, Canada.  
