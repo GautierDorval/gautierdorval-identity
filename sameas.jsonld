@@ -11,18 +11,24 @@
         "https://github.com/GautierDorval/gautierdorval-identity",
         "https://github.com/GautierDorval"
       ],
+      "jobTitle": "Interpretive governance and entity disambiguation specialist",
+      "knowsAbout": [
+        "Interpretive governance",
+        "Entity disambiguation",
+        "Machine interpretability",
+        "Semantic governance",
+        "Semantic architecture",
+        "Knowledge graph",
+        "SEO interpretatif",
+        "Désambiguïsation IA",
+        "LLM interpretability",
+        "Generative AI systems",
+        "Search engine interpretation",
+        "Machine-readable content"
+      ],
       "affiliation": {
         "@id": "https://github.com/GautierDorval/pagup-identity#pagup"
       },
-      "knowsAbout": [
-        "Advanced SEO",
-        "Semantic architecture",
-        "Search engine interpretation",
-        "Entity modeling",
-        "Machine-readable content",
-        "AI governance",
-        "WordPress plugin development"
-      ],
       "subjectOf": [
         {
           "@type": "CreativeWork",
