@@ -19,7 +19,7 @@
         "Semantic governance",
         "Semantic architecture",
         "Knowledge graph",
-        "SEO interpretatif",
+        "SEO interprétatif",
         "Désambiguïsation IA",
         "LLM interpretability",
         "Generative AI systems",
@@ -30,13 +30,15 @@
         "@id": "https://github.com/GautierDorval/pagup-identity#pagup"
       },
       "subjectOf": [
-        {
-          "@type": "CreativeWork",
-          "@id": "https://github.com/GautierDorval/gautierdorval-identity#repository",
-          "name": "Gautier Dorval identity repository",
-          "url": "https://github.com/GautierDorval/gautierdorval-identity"
-        }
+        { "@id": "https://github.com/GautierDorval/gautierdorval-identity#repository" },
+        { "@id": "https://interpretive-governance.org/interpretive-governance.manifest.json#manifest" }
       ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://github.com/GautierDorval/gautierdorval-identity#repository",
+      "name": "Gautier Dorval identity repository",
+      "url": "https://github.com/GautierDorval/gautierdorval-identity"
     },
     {
       "@type": "Organization",
@@ -55,6 +57,41 @@
           "contactType": "professional"
         }
       ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://interpretive-governance.org/#authority",
+      "name": "Interpretive Governance",
+      "url": "https://interpretive-governance.org/"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://interpretive-governance.org/interpretive-governance.manifest.json#manifest",
+      "name": "Interpretive Governance Manifest",
+      "url": "https://interpretive-governance.org/interpretive-governance.manifest.json",
+      "inLanguage": "en",
+      "creativeWorkStatus": "Draft",
+      "creator": {
+        "@id": "https://gautierdorval.com/#gautier-dorval"
+      },
+      "publisher": {
+        "@id": "https://interpretive-governance.org/#authority"
+      },
+      "isPartOf": {
+        "@type": "CreativeWork",
+        "@id": "https://interpretive-governance.org/#standard",
+        "name": "Interpretive Governance Standard",
+        "url": "https://interpretive-governance.org/"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://interpretive-governance.org/#standard",
+      "name": "Interpretive Governance Standard",
+      "url": "https://interpretive-governance.org/",
+      "publisher": {
+        "@id": "https://interpretive-governance.org/#authority"
+      }
     }
   ]
 }
