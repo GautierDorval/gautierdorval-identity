@@ -25,6 +25,8 @@ Areas of responsibility:
 - Entity modeling and semantic graphs (JSON-LD)
 - Technical optimization focused on performance, accessibility, and crawl interpretation
 - Adaptation of SEO practices for search engines integrating AI-driven ranking and answer systems
+- Initiator and primary architect of the Interpretive Governance standard (canonical: https://interpretive-governance.org/)
+
 
 This work focuses on semantic sovereignty and interpretation governance, ensuring that digital entities are clearly defined, bounded, and represented consistently across search engines and AI systems.
 
