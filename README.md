@@ -21,6 +21,19 @@ See: identity-canonical.md
 
 ---
 
+## Standards initiated (non-canonical identity surfaces)
+
+Gautier Dorval is the initiator and primary architect of the **Interpretive Governance** standard, a machine-first specification designed to constrain interpretation and decision-making in probabilistic systems (including agentic tool-using workflows).
+
+Canonical standard reference:
+- https://interpretive-governance.org/
+
+Important:
+- The standard is intentionally **self-contained** and **does not depend** on this identity repository.
+- This repository only provides **authorship attribution** and identity anchoring for historical provenance.
+
+---
+
 ## Purpose and scope
 
 This repository defines:
