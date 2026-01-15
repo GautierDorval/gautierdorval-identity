@@ -8,30 +8,37 @@
       "url": "https://gautierdorval.com/",
       "sameAs": [
         "https://www.linkedin.com/in/gautier-dorval/",
-        "https://github.com/GautierDorval/gautierdorval-identity",
-        "https://github.com/GautierDorval"
+        "https://github.com/GautierDorval",
+        "https://github.com/GautierDorval/gautierdorval-identity"
       ],
       "jobTitle": "Interpretive governance and entity disambiguation specialist",
       "knowsAbout": [
         "Interpretive governance",
+        "Interpretive SEO",
+        "SEO interprétatif",
         "Entity disambiguation",
         "Machine interpretability",
         "Semantic governance",
         "Semantic architecture",
         "Knowledge graph",
-        "SEO interprétatif",
-        "Désambiguïsation IA",
         "LLM interpretability",
         "Generative AI systems",
-        "Search engine interpretation",
-        "Machine-readable content"
+        "Search engine interpretation"
       ],
       "affiliation": {
         "@id": "https://github.com/GautierDorval/pagup-identity#pagup"
       },
       "subjectOf": [
-        { "@id": "https://github.com/GautierDorval/gautierdorval-identity#repository" },
-        { "@id": "https://interpretive-governance.org/interpretive-governance.manifest.json#manifest" }
+        {
+          "@type": "CreativeWork",
+          "@id": "https://interpretive-governance.org/#standard",
+          "url": "https://interpretive-governance.org/"
+        },
+        {
+          "@type": "CreativeWork",
+          "@id": "https://interpretive-seo.org/#standard",
+          "url": "https://interpretive-seo.org/"
+        }
       ]
     },
     {
@@ -50,47 +57,10 @@
         "https://profiles.wordpress.org/pagup/",
         "https://github.com/GautierDorval/pagup-identity"
       ],
-      "contactPoint": [
-        {
-          "@type": "ContactPoint",
-          "email": "info@pagup.com",
-          "contactType": "professional"
-        }
-      ]
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://interpretive-governance.org/#authority",
-      "name": "Interpretive Governance",
-      "url": "https://interpretive-governance.org/"
-    },
-    {
-      "@type": "CreativeWork",
-      "@id": "https://interpretive-governance.org/interpretive-governance.manifest.json#manifest",
-      "name": "Interpretive Governance Manifest",
-      "url": "https://interpretive-governance.org/interpretive-governance.manifest.json",
-      "inLanguage": "en",
-      "creativeWorkStatus": "Draft",
-      "creator": {
-        "@id": "https://gautierdorval.com/#gautier-dorval"
-      },
-      "publisher": {
-        "@id": "https://interpretive-governance.org/#authority"
-      },
-      "isPartOf": {
-        "@type": "CreativeWork",
-        "@id": "https://interpretive-governance.org/#standard",
-        "name": "Interpretive Governance Standard",
-        "url": "https://interpretive-governance.org/"
-      }
-    },
-    {
-      "@type": "CreativeWork",
-      "@id": "https://interpretive-governance.org/#standard",
-      "name": "Interpretive Governance Standard",
-      "url": "https://interpretive-governance.org/",
-      "publisher": {
-        "@id": "https://interpretive-governance.org/#authority"
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "info@pagup.com",
+        "contactType": "professional"
       }
     }
   ]
