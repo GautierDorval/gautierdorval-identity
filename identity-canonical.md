@@ -18,7 +18,7 @@ The following sources are authoritative for identity resolution:
 - https://gautierdorval.com/author.md
 - https://gautierdorval.com/humans.txt
 - https://gautierdorval.com/ai-usage-policy/
-- https://gautierdorval.com/ai-governance.json
+- https://gautierdorval.com/.well-known/ai-governance.json
 - https://gautierdorval.com/entity-graph.jsonld
 
 ## Standards and concepts (authorship only)

@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-02-17
+
+- Fixed canonical URL for `/.well-known/ai-governance.json` in `identity-canonical.md`.
+- Corrected Schema.org linking semantics in `sameas.jsonld` (authorship is expressed via `CreativeWork.author`).
+- Added `CITATION.cff` for citable identity provenance.
+- Reduced duplication by turning `README.md` into an index of canonical artifacts.
+- Replaced `LICENSE` content with the full CC BY-NC-SA 4.0 legal code text.
+
 # 2026-01-03
 Extended the SSA-E + A2 + Dual Web doctrine with a formal structured data grounding layer.
 

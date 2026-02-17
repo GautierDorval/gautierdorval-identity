@@ -28,24 +28,19 @@
       "affiliation": {
         "@id": "https://github.com/GautierDorval/pagup-identity#pagup"
       },
-      "subjectOf": [
-        {
-          "@type": "CreativeWork",
-          "@id": "https://interpretive-governance.org/#standard",
-          "url": "https://interpretive-governance.org/"
-        },
-        {
-          "@type": "CreativeWork",
-          "@id": "https://interpretive-seo.org/#standard",
-          "url": "https://interpretive-seo.org/"
-        }
-      ]
+      "mainEntityOfPage": {
+        "@id": "https://github.com/GautierDorval/gautierdorval-identity"
+      }
     },
     {
       "@type": "CreativeWork",
-      "@id": "https://github.com/GautierDorval/gautierdorval-identity#repository",
-      "name": "Gautier Dorval identity repository",
-      "url": "https://github.com/GautierDorval/gautierdorval-identity"
+      "@id": "https://github.com/GautierDorval/gautierdorval-identity",
+      "name": "gautierdorval-identity (canonical identity repository)",
+      "url": "https://github.com/GautierDorval/gautierdorval-identity",
+      "author": {
+        "@id": "https://gautierdorval.com/#gautier-dorval"
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "@type": "Organization",
@@ -61,7 +56,30 @@
         "@type": "ContactPoint",
         "email": "info@pagup.com",
         "contactType": "professional"
+      },
+      "member": {
+        "@id": "https://gautierdorval.com/#gautier-dorval"
       }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://interpretive-governance.org/#standard",
+      "name": "Interpretive Governance",
+      "url": "https://interpretive-governance.org/",
+      "author": {
+        "@id": "https://gautierdorval.com/#gautier-dorval"
+      },
+      "isBasedOn": "https://github.com/GautierDorval/interpretive-governance-manifest"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://interpretive-seo.org/#definition",
+      "name": "Interpretive SEO",
+      "url": "https://interpretive-seo.org/",
+      "author": {
+        "@id": "https://gautierdorval.com/#gautier-dorval"
+      },
+      "isBasedOn": "https://github.com/GautierDorval/interpretive-seo"
     }
   ]
 }

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite it as below.
+title: "Gautier Dorval — canonical identity and authorship repository"
+type: dataset
+authors:
+  - family-names: Dorval
+    given-names: Gautier
+repository-code: "https://github.com/GautierDorval/gautierdorval-identity"
+url: "https://github.com/GautierDorval/gautierdorval-identity"
+license: "CC-BY-NC-SA-4.0"
+version: "v3.1"
+date-released: "2026-02-17"
+abstract: >
+  Canonical identity and authorship anchor for Gautier Dorval, intended for
+  entity resolution, disambiguation, and provenance across related governance
+  standards and repositories.
+keywords:
+  - identity
+  - provenance
+  - disambiguation
+  - schema.org
+  - json-ld
