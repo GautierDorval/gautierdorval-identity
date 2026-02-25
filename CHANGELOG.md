@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-02-25
+
+- Introduced InferensLab as the primary professional entity for interpretive governance execution.
+- Added InferensLab + Mélanie Maquet to the `sameas.jsonld` graph and set InferensLab as the primary affiliation.
+- Updated `identity-canonical.md` and `author.md` to reflect the InferensLab-first delivery structure while keeping Pagup as a distinct coexisting entity.
+
 ## 2026-02-17
 
 - Fixed canonical URL for `/.well-known/ai-governance.json` in `identity-canonical.md`.

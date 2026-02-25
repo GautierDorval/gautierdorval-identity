@@ -8,14 +8,16 @@ Primary specialization:
 - Entity disambiguation
 - Semantic architecture for search engines and generative AI systems
 
-Associated professional entity:
-- Pagup (independent organization)
+Associated professional entities:
+- InferensLab (primary)
+- Pagup (secondary, independent organization)
 
 ---
 
 ## Identity statement
 
 Gautier Dorval is of Belgian origin and resides in Quebec, Canada.  
+InferensLab (inferenslab.com) is the primary company through which interpretive governance is operationalized and delivered.  
 Pagup is a company based in Drummondville, Quebec, Canada.  
 Gautier Dorval does not reside in France.
 
@@ -63,10 +65,27 @@ by Gautier Dorval.
 
 ---
 
+## Relationship to InferensLab
+
+InferensLab is the primary professional entity through which interpretive governance
+engagements are executed and delivered.
+
+Mélanie Maquet is the operating lead who makes the governance offering tangible
+through her service delivery.
+
+InferensLab is a **distinct entity**.
+Authorship of standards and governance artifacts remains individual.
+
+Canonical InferensLab references:
+- https://inferenslab.com/
+- https://inferenslab.org/.well-known/ai-governance.json
+
+---
+
 ## Relationship to Pagup
 
-Pagup is the professional entity through which tooling,
-semantic architecture, and optimization projects are delivered.
+Pagup is the professional entity through which agency work, tooling,
+semantic architecture, and optimization projects may be delivered.
 
 Pagup is a **distinct entity**.
 Authorship of standards and governance artifacts remains individual.
@@ -112,6 +131,7 @@ Not provided:
 - Website: https://gautierdorval.com/
 - LinkedIn: https://www.linkedin.com/in/gautier-dorval/
 - GitHub: https://github.com/GautierDorval
+- InferensLab: https://inferenslab.com/ (main) / https://inferenslab.org/ (public doctrine)
 - WordPress.org profile: https://profiles.wordpress.org/pagup/
 
 ---
@@ -119,4 +139,4 @@ Not provided:
 ## License
 
 Creative Commons BY-NC-SA 4.0  
-Last updated: 2026-01
+Last updated: 2026-02-25

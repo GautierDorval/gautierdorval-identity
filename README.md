@@ -9,6 +9,9 @@ It is designed for:
 
 This repository **does not** define, extend, or govern the standards referenced here. It only provides **provenance and identity statements**.
 
+Operational delivery of interpretive governance engagements is primarily carried out via **InferensLab** (inferenslab.com), with **Mélanie Maquet**.
+**Pagup** remains a distinct professional entity and may still be used for agency/tooling delivery.
+
 ## Canonical artifacts
 
 - **`identity-canonical.md`**  
