@@ -21,13 +21,14 @@
         "Semantic governance",
         "Semantic architecture",
         "Knowledge graph",
+        "Distributed interpretive authority governance",
         "LLM interpretability",
         "Generative AI systems",
         "Search engine interpretation"
       ],
       "affiliation": [
         {
-          "@id": "https://inferenslab.com/#inferenslab"
+          "@id": "https://inferenslab.org/#inferenslab"
         },
         {
           "@id": "https://github.com/GautierDorval/pagup-identity#pagup"
@@ -35,15 +36,6 @@
       ],
       "mainEntityOfPage": {
         "@id": "https://github.com/GautierDorval/gautierdorval-identity"
-      }
-    },
-    {
-      "@type": "Person",
-      "@id": "https://www.linkedin.com/in/melaniemaquet/",
-      "name": "Mélanie Maquet",
-      "url": "https://www.linkedin.com/in/melaniemaquet/",
-      "affiliation": {
-        "@id": "https://inferenslab.com/#inferenslab"
       }
     },
     {
@@ -64,7 +56,8 @@
         "https://www.linkedin.com/company/pagup-agence-seo/",
         "https://share.google/9CRIY6Z1ShBbJMcXg",
         "https://profiles.wordpress.org/pagup/",
-        "https://github.com/GautierDorval/pagup-identity"
+        "https://github.com/GautierDorval/pagup-identity",
+        "https://pagup.com/properties/"
       ],
       "contactPoint": {
         "@type": "ContactPoint",
@@ -77,26 +70,15 @@
     },
     {
       "@type": "Organization",
-      "@id": "https://inferenslab.com/#inferenslab",
+      "@id": "https://inferenslab.org/#inferenslab",
       "name": "InferensLab",
-      "url": "https://inferenslab.com/",
+      "url": "https://inferenslab.org/",
       "sameAs": [
-        "https://inferenslab.com/",
         "https://inferenslab.org/"
       ],
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "email": "info@inferenslab.com",
-        "contactType": "professional"
-      },
-      "founder": [
-        {
-          "@id": "https://gautierdorval.com/#gautier-dorval"
-        },
-        {
-          "@id": "https://www.linkedin.com/in/melaniemaquet/"
-        }
-      ]
+      "founder": {
+        "@id": "https://gautierdorval.com/#gautier-dorval"
+      }
     },
     {
       "@type": "CreativeWork",

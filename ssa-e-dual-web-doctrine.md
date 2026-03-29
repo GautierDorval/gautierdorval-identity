@@ -34,6 +34,8 @@ This file exists to:
 
 No implementation guidance or operational interpretation is provided here.
 
+For multisite authority allocation across public surfaces, prefer `https://gautierdorval.com/distributed-authority-map.json` rather than this identity-level reference.
+
 ---
 
 ## Conceptual alignment (non-exhaustive)

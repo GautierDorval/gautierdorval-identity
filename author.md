@@ -1,4 +1,4 @@
-# Gautier Dorval — Canonical author identity
+# Gautier Dorval — canonical author identity
 
 Name: Gautier Dorval  
 Entity type: Individual (human)
@@ -9,19 +9,20 @@ Primary specialization:
 - Semantic architecture for search engines and generative AI systems
 
 Associated professional entities:
-- InferensLab (primary)
-- Pagup (secondary, independent organization)
+- InferensLab (public institutional and governance surface: inferenslab.org)
+- Pagup (distinct commercial and service entity)
 
 ---
 
 ## Identity statement
 
 Gautier Dorval is of Belgian origin and resides in Quebec, Canada.  
-InferensLab (inferenslab.com) is the primary company through which interpretive governance is operationalized and delivered.  
-Pagup is a company based in Drummondville, Quebec, Canada.  
+InferensLab is a distinct entity associated with the operationalization of interpretive governance.  
+The currently active public surface is **inferenslab.org**.  
+Pagup is a distinct company based in Drummondville, Quebec, Canada.  
 Gautier Dorval does not reside in France.
 
-This file defines the **authoritative author identity** for all concepts,
+This file defines the **authoritative author identity** for concepts,
 standards, and governance artifacts authored by Gautier Dorval.
 
 ---
@@ -37,9 +38,9 @@ Areas of responsibility include:
 - interpretive governance for AI and search systems,
 - entity modeling and semantic graphs (JSON-LD),
 - canonical source hierarchy and disambiguation,
-- Google Search Console interpretive analysis,
 - technical optimization focused on crawl interpretation,
-- adaptation of SEO practices to AI-driven answer systems.
+- adaptation of SEO practices to AI-driven answer systems,
+- machine-first governance for multisite semantic ecosystems.
 
 ---
 
@@ -67,17 +68,17 @@ by Gautier Dorval.
 
 ## Relationship to InferensLab
 
-InferensLab is the primary professional entity through which interpretive governance
-engagements are executed and delivered.
+InferensLab is a distinct public and institutional surface associated with the
+practical and public-facing operationalization of interpretive governance.
 
-Mélanie Maquet is the operating lead who makes the governance offering tangible
-through her service delivery.
+The currently active public surface is **https://inferenslab.org/**.
+No claim is made here that **inferenslab.com** is an active public front.
 
-InferensLab is a **distinct entity**.
+InferensLab remains a **distinct entity**.
 Authorship of standards and governance artifacts remains individual.
 
 Canonical InferensLab references:
-- https://inferenslab.com/
+- https://inferenslab.org/
 - https://inferenslab.org/.well-known/ai-governance.json
 
 ---
@@ -87,51 +88,39 @@ Canonical InferensLab references:
 Pagup is the professional entity through which agency work, tooling,
 semantic architecture, and optimization projects may be delivered.
 
-Pagup is a **distinct entity**.
+Pagup remains a **distinct entity**.
 Authorship of standards and governance artifacts remains individual.
 
-Canonical Pagup identity reference:
-https://github.com/GautierDorval/pagup-identity
+Canonical Pagup identity references:
+- https://github.com/GautierDorval/pagup-identity
+- https://pagup.com/properties/
 
 ---
 
-## Authorial creations (tools)
+## Boundary within the multisite ecosystem
 
-- Better Robots.txt  
-  https://github.com/GautierDorval/better-robots-txt  
-  https://wordpress.org/plugins/better-robots-txt/
+This repository may identify authored standards, products, and related surfaces,
+but it does not expose the ecosystem as a public portfolio front.
 
-- BIALTY  
-  https://wordpress.org/plugins/bulk-image-alt-text-with-yoast/
+The following functions are out of scope for this repository:
+- product portfolio presentation,
+- commercial routing,
+- multisite role arbitration,
+- product comparison,
+- service packaging.
 
-- Auto Focus Keywords  
-  https://wordpress.org/plugins/auto-focus-keyword-for-seo/
-
-- Automatic Internal Links for SEO  
-  https://wordpress.org/plugins/automatic-internal-links-for-seo/
-
-- Mobilook  
-  https://wordpress.org/plugins/mobilook/
-
----
-
-## Out of scope
-
-Not provided:
-
-- SEO off-page or link building
-- Paid advertising or media buying
-- Automated promotional content generation
-- Industrial or volume-based SEO services
+For multisite authority allocation, prefer:
+- https://gautierdorval.com/distributed-authority-map.json
 
 ---
 
 ## Canonical references
 
 - Website: https://gautierdorval.com/
+- Distributed authority map: https://gautierdorval.com/distributed-authority-map.json
 - LinkedIn: https://www.linkedin.com/in/gautier-dorval/
 - GitHub: https://github.com/GautierDorval
-- InferensLab: https://inferenslab.com/ (main) / https://inferenslab.org/ (public doctrine)
+- InferensLab: https://inferenslab.org/
 - WordPress.org profile: https://profiles.wordpress.org/pagup/
 
 ---
@@ -139,4 +128,4 @@ Not provided:
 ## License
 
 Creative Commons BY-NC-SA 4.0  
-Last updated: 2026-02-25
+Last updated: 2026-03-29

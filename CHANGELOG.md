@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-03-29
+
+- Removed the claim that `inferenslab.com` is the active main public surface and aligned public identity references to `inferenslab.org`.
+- Added explicit multisite boundary language so this repository remains identity-level only.
+- Added references to `distributed-authority-map.json` for cross-surface authority allocation.
+- Extended `sameas.jsonld` to reflect the current public identity posture and multisite context.
+
 ## 2026-02-25
 
 - Introduced InferensLab as the primary professional entity for interpretive governance execution.
