@@ -3,35 +3,42 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://gautierdorval.com/#gautier-dorval",
+      "@id": "https://gautierdorval.com/en/entity/#person",
       "name": "Gautier Dorval",
-      "url": "https://gautierdorval.com/",
+      "url": "https://gautierdorval.com/en/entity/",
+      "description": "On-page SEO consultant, semantic architect, and designer and developer of software tools and digital environments; founder of Pagup. His work connects interpretive governance and its inferential focus, qualitative audits of AI-generated representations and conclusions, verifiable structured context, and interactions with agents.",
       "sameAs": [
         "https://www.linkedin.com/in/gautier-dorval/",
         "https://github.com/GautierDorval",
         "https://github.com/GautierDorval/gautierdorval-identity"
       ],
-      "jobTitle": "Interpretive governance and entity disambiguation specialist",
+      "jobTitle": [
+        "On-page SEO consultant",
+        "Semantic architect",
+        "Software designer and developer"
+      ],
       "knowsAbout": [
-        "Interpretive governance",
-        "Interpretive SEO",
-        "SEO interprétatif",
-        "Entity disambiguation",
-        "Machine interpretability",
-        "Semantic governance",
+        "On-page SEO",
         "Semantic architecture",
-        "Knowledge graph",
-        "Distributed interpretive authority governance",
-        "LLM interpretability",
-        "Generative AI systems",
-        "Search engine interpretation"
+        "Interpretive governance",
+        "Inferential governance as a focus of interpretive governance",
+        "Interpretive SEO",
+        "Entity disambiguation",
+        "Knowledge graphs and structured data (JSON-LD)",
+        "Machine-first information architecture",
+        "Search engine interpretation",
+        "Observable outputs of AI systems and agents: responses, representations, sources, permissions and behaviour",
+        "Qualitative audits of AI-generated representations and conclusions",
+        "Governed context distribution",
+        "Software design and development",
+        "Distributed interpretive authority governance"
       ],
       "affiliation": [
         {
-          "@id": "https://inferenslab.org/#inferenslab"
+          "@id": "https://pagup.com#organization"
         },
         {
-          "@id": "https://github.com/GautierDorval/pagup-identity#pagup"
+          "@id": "https://inferenslab.org/#organization"
         }
       ],
       "mainEntityOfPage": {
@@ -39,46 +46,78 @@
       }
     },
     {
+      "@type": "Person",
+      "@id": "https://gautierdorval.com/#person",
+      "name": "Gautier Dorval",
+      "description": "Alias emitted by gautierdorval.com pages for the canonical person identifier.",
+      "sameAs": [
+        "https://gautierdorval.com/en/entity/#person"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gautierdorval.com/#gautier-dorval",
+      "name": "Gautier Dorval",
+      "description": "Historical identifier used by this repository up to canonical identity v4.1, kept as an alias of the canonical person identifier.",
+      "sameAs": [
+        "https://gautierdorval.com/en/entity/#person"
+      ]
+    },
+    {
       "@type": "CreativeWork",
       "@id": "https://github.com/GautierDorval/gautierdorval-identity",
       "name": "gautierdorval-identity (canonical identity repository)",
       "url": "https://github.com/GautierDorval/gautierdorval-identity",
       "author": {
-        "@id": "https://gautierdorval.com/#gautier-dorval"
+        "@id": "https://gautierdorval.com/en/entity/#person"
       },
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "@type": "Organization",
-      "@id": "https://github.com/GautierDorval/pagup-identity#pagup",
+      "@id": "https://pagup.com#organization",
       "name": "Pagup",
+      "url": "https://pagup.com/",
+      "description": "Digital readability and agentic readiness firm based in Drummondville, Quebec, Canada, founded and operated by Gautier Dorval.",
+      "founder": {
+        "@id": "https://gautierdorval.com/en/entity/#person"
+      },
       "sameAs": [
         "https://www.linkedin.com/company/pagup-agence-seo/",
-        "https://share.google/9CRIY6Z1ShBbJMcXg",
+        "https://www.google.com/maps?cid=6212701508654272251",
         "https://profiles.wordpress.org/pagup/",
-        "https://github.com/GautierDorval/pagup-identity",
-        "https://pagup.com/properties/"
+        "https://github.com/GautierDorval/pagup-identity"
       ],
       "contactPoint": {
         "@type": "ContactPoint",
         "email": "info@pagup.com",
         "contactType": "professional"
-      },
-      "member": {
-        "@id": "https://gautierdorval.com/#gautier-dorval"
       }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://github.com/GautierDorval/pagup-identity#pagup",
+      "name": "Pagup",
+      "description": "Historical identifier used by this repository for Pagup up to canonical identity v4.1, kept as an alias of the identifier emitted by pagup.com.",
+      "sameAs": [
+        "https://pagup.com#organization"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://inferenslab.org/#organization",
+      "name": "InferensLab",
+      "url": "https://inferenslab.org/",
+      "description": "Public doctrinal-research laboratory publishing bounded programs, preregistered protocols, evidence states and machine-readable governance. Gautier Dorval is its initiator."
     },
     {
       "@type": "Organization",
       "@id": "https://inferenslab.org/#inferenslab",
       "name": "InferensLab",
-      "url": "https://inferenslab.org/",
+      "description": "Historical identifier used by this repository for InferensLab up to canonical identity v4.1, kept as an alias of the identifier emitted by inferenslab.org.",
       "sameAs": [
-        "https://inferenslab.org/"
-      ],
-      "founder": {
-        "@id": "https://gautierdorval.com/#gautier-dorval"
-      }
+        "https://inferenslab.org/#organization"
+      ]
     },
     {
       "@type": "CreativeWork",
@@ -86,7 +125,7 @@
       "name": "Interpretive Governance",
       "url": "https://interpretive-governance.org/",
       "author": {
-        "@id": "https://gautierdorval.com/#gautier-dorval"
+        "@id": "https://gautierdorval.com/en/entity/#person"
       },
       "isBasedOn": "https://github.com/GautierDorval/interpretive-governance-manifest"
     },
@@ -96,9 +135,40 @@
       "name": "Interpretive SEO",
       "url": "https://interpretive-seo.org/",
       "author": {
-        "@id": "https://gautierdorval.com/#gautier-dorval"
+        "@id": "https://gautierdorval.com/en/entity/#person"
       },
       "isBasedOn": "https://github.com/GautierDorval/interpretive-seo"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://github.com/GautierDorval/governed-context-runtime",
+      "name": "Governed Context Runtime",
+      "codeRepository": "https://github.com/GautierDorval/governed-context-runtime",
+      "description": "Public reference for a proposed specification: contracts, verification tools and examples for distributing precompiled, versioned context packs. The contracts remain proposed; the repository does not establish deployment, availability or answer fidelity.",
+      "author": {
+        "@id": "https://gautierdorval.com/en/entity/#person"
+      },
+      "creator": {
+        "@id": "https://gautierdorval.com/en/entity/#person"
+      },
+      "isBasedOn": "https://gautierdorval.com/en/doctrine/governed-context-runtime/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://wpagentcontrol.com/#pagup-agent-control",
+      "name": "PAGUP Agent Control",
+      "url": "https://wpagentcontrol.com/",
+      "description": "WordPress plugin published by Pagup and designed by Gautier Dorval. Capabilities, versions and availability are documented on the product site.",
+      "publisher": {
+        "@id": "https://pagup.com#organization"
+      },
+      "creator": {
+        "@type": "Role",
+        "roleName": "Designer",
+        "creator": {
+          "@id": "https://gautierdorval.com/en/entity/#person"
+        }
+      }
     }
   ]
 }
