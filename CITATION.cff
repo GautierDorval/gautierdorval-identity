@@ -8,10 +8,8 @@ authors:
 repository-code: "https://github.com/GautierDorval/gautierdorval-identity"
 url: "https://github.com/GautierDorval/gautierdorval-identity"
 license: "CC-BY-NC-SA-4.0"
-# Last published version. The v5.0 revision dated 2026-11-08 updates
-# these two fields only when it is merged into main.
-version: "v4.1"
-date-released: "2026-03-29"
+version: "v5.0"
+date-released: "2026-11-08"
 abstract: >
   Canonical identity and authorship anchor for Gautier Dorval, intended for
   entity resolution, disambiguation, authorship attribution, and identity-level

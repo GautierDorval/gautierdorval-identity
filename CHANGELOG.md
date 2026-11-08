@@ -13,7 +13,7 @@ Revision prepared as canonical identity v5.0. Earlier entries remain as written;
 - Revised `jobTitle` and `knowsAbout`. Removed `LLM interpretability`, which no published source establishes as a field of expertise, and the French duplicate of `Interpretive SEO`.
 - Replaced the portfolio link `https://pagup.com/properties/`, which returns 404, with `https://pagup.com/en/properties/` (French: `https://pagup.com/proprietes/`).
 - Revised the conflict-resolution rule so that documented divergences between legitimate sources or versions are recorded and resolved by claim type and scope.
-- At the time of this revision, `CITATION.cff` still describes the last published version (v4.1, 2026-03-29). Its `version` and `date-released` fields are updated when this revision is published.
+- `CITATION.cff` now records v5.0 with `date-released` 2026-11-08, the planned publication date of this revision on `main`.
 
 ## 2026-03-29
 
