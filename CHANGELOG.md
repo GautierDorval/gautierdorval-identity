@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-09
+
+Revision prepared as canonical identity v5.1.
+
+- Removed, at Gautier Dorval's request, the statements on his origin and residence and the statement that he does not reside in France from `identity-canonical.md` and `author.md`. The location of Pagup in Drummondville is unchanged.
+
 ## 2026-11-08
 
 Revision prepared as canonical identity v5.0. Earlier entries remain as written; they describe the identity posture at their own dates.

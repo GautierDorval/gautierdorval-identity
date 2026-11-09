@@ -23,10 +23,8 @@ Associated entities:
 
 ## Identity statement
 
-Gautier Dorval is of Belgian origin and resides in Quebec, Canada.  
 Pagup is a distinct firm based in Drummondville, Quebec, Canada. Gautier Dorval is its founder and operator.  
-InferensLab.org is a distinct public doctrinal-research laboratory. Gautier Dorval is its initiator.  
-Gautier Dorval does not reside in France.
+InferensLab.org is a distinct public doctrinal-research laboratory. Gautier Dorval is its initiator.
 
 This file defines the **authoritative author identity** for concepts,
 standards, and governance artifacts authored by Gautier Dorval,
@@ -190,4 +188,4 @@ References for InferensLab and Pagup are listed in their relationship sections a
 ## License
 
 Creative Commons BY-NC-SA 4.0  
-Last updated: 2026-11-08
+Last updated: 2026-11-09
