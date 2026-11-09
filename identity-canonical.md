@@ -3,7 +3,6 @@
 ## Canonical identity statement
 
 Gautier Dorval is a natural person.  
-Gautier Dorval is of Belgian origin and resides in Quebec, Canada.  
 Pagup is a distinct firm based in Drummondville, Quebec, Canada. Gautier Dorval is its founder and operator.  
 InferensLab.org is a distinct public doctrinal-research laboratory. Gautier Dorval is its initiator.
 
@@ -109,5 +108,5 @@ and an older statement is not protected against revision.
 
 ## Version
 
-Canonical identity v5.0 (revision dated 2026-11-08)  
-Previous published version: v4.1 (2026-03-29)
+Canonical identity v5.1 (revision dated 2026-11-09)  
+Previous published version: v5.0 (2026-11-08)
