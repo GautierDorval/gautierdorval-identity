@@ -78,6 +78,24 @@ by Gautier Dorval.
 
 ---
 
+## Definitions (authorship attribution)
+
+### Interpretive fidelity
+
+- Definition: https://gautierdorval.com/en/definitions/interpretive-fidelity/
+  (French: https://gautierdorval.com/definitions/fidelite-interpretative/)
+- Role: Author of the definition in this corpus
+- Terminology: within this corpus, reconstruction fidelity is a contextual entry term
+  for interpretive fidelity, declared on 2026-11-20
+- Provenance record: https://github.com/GautierDorval/gautierdorval-identity/blob/main/provenance/interpretive-fidelity-provenance.md
+  (French: https://github.com/GautierDorval/gautierdorval-identity/blob/main/provenance/provenance-fidelite-interpretative.md)
+
+This attribution identifies the author of the definition. It makes no claim that Gautier Dorval
+invented the expressions, and it is not an independent validation of the concept,
+its definition or any result that uses it.
+
+---
+
 ## Current work (attribution)
 
 Each entry identifies the object, the role of Gautier Dorval and the reference surface.
@@ -188,4 +206,4 @@ References for InferensLab and Pagup are listed in their relationship sections a
 ## License
 
 Creative Commons BY-NC-SA 4.0  
-Last updated: 2026-11-09
+Last updated: 2026-11-20
