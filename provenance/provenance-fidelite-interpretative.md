@@ -61,7 +61,7 @@ Le dépôt source du site gautierdorval.com, `GautierDorval/gautierdorval-site`,
 
 ### 4. Déclaration terminologique du 20 novembre 2026
 
-- La relation explicite entre « fidélité de reconstruction » et « fidélité interprétative » fait l’objet d’une déclaration terminologique datée du 2026-11-20. Elle est consignée dans la [note terminologique](https://github.com/GautierDorval/interpretive-governance-manifest/blob/main/concepts/fidelite-de-reconstruction.md) du dépôt public du manifeste ; la date de publication de cette note relève de l’historique Git de ce dépôt.
+- La relation explicite entre « fidélité de reconstruction » et « fidélité interprétative » fait l’objet d’une déclaration terminologique datée du 2026-11-20. Elle est consignée dans une note terminologique du dépôt public `GautierDorval/interpretive-governance-manifest` ; la date de publication de cette note relève de l’historique Git de ce dépôt.
 - Cette déclaration n’est pas antidatée. Les traces 1 à 3 montrent un emploi de l’expression et une définition antérieurs, pas une déclaration de relation antérieure.
 
 ## Portée linguistique
