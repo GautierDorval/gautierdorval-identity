@@ -61,7 +61,8 @@ The source repository of the gautierdorval.com site, `GautierDorval/gautierdorva
 
 ### 4. Terminological declaration of 20 November 2026
 
-- The explicit relationship between reconstruction fidelity and interpretive fidelity is the subject of a terminological declaration dated 2026-11-20. It is recorded in a terminology note of the public repository `GautierDorval/interpretive-governance-manifest`; the publication date of that note is a matter of that repository's Git history.
+- The explicit relationship between reconstruction fidelity and interpretive fidelity is the subject of a terminological declaration dated 2026-11-20. It is recorded in the [terminology note](https://github.com/GautierDorval/interpretive-governance-manifest/blob/main/concepts/reconstruction-fidelity.md) of the public manifest repository; the publication date of that note is a matter of that repository's Git history.
+- The [reconstruction fidelity entry page](https://gautierdorval.com/en/reconstruction-fidelity/) develops this relationship. Its publication is an event distinct from the declaration; this record does not state its date.
 - This declaration is not backdated. Traces 1 to 3 show an earlier use of the expression and an earlier definition, not an earlier declaration of the relationship.
 
 ## Language scope

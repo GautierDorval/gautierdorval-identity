@@ -6,6 +6,7 @@ Provenance and attribution addition. The identity and role statements are unchan
 
 - Added a bounded public provenance record for the interpretive fidelity definition and the French expression "fidélité de reconstruction", in English (`provenance/interpretive-fidelity-provenance.md`) and French (`provenance/provenance-fidelite-interpretative.md`). It cites revisions of the private site source repository as identifiers, keeps editorial dates, Git dates and the hosting provider's deployment check distinct, states that a deployment check does not attest served bytes, and does not backdate the terminological declaration of 2026-11-20.
 - Added to `author.md` an attribution of the interpretive fidelity definition, with links to the definition and to the provenance record. The attribution identifies the author; it is not an independent validation and makes no claim that the expressions were invented by Gautier Dorval.
+- Linked the provenance record (English and French) to the reconstruction fidelity entry pages on gautierdorval.com, without recording their publication date, and to the terminology note of the Interpretive Governance manifest repository.
 
 ## 2026-11-09
 
